@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Currently working @vistair as a Frontend Developer maintaining design systems and component libraries.
 
 ###### Links
